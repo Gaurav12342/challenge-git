@@ -28,4 +28,4 @@ tape('should respond user-agent', (t) => {
 tape('cleanup', function (t) {
   server.close()
   t.end()
-})
+}) 
